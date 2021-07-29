@@ -7,7 +7,7 @@ export const bscPools = [
     tokenAddress: '0x3c7e7122f4ddcfc5b5c31b5c735ce2ae3b015856', // lp token address
     tokenDecimals: 18,
     tokenDescriptionUrl: '#',
-    earnedToken: 'plutusv1ALUBNB',
+    earnedToken: 'alturaV1ALUBNB',
     earnedTokenAddress: '0x74E2F3768b3082E1d3329bdaBbdb80326ffadB4E',
     earnContractAddress: '0x74E2F3768b3082E1d3329bdaBbdb80326ffadB4E',
     pricePerFullShare: 1,
